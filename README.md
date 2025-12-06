@@ -49,7 +49,8 @@ RegisterNumber:25005762
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![Uploading WhatsApp Image 2025-12-06 at 11.30.55 AM (2).jpeg…]()
+![WhatsApp Image 2025-12-06 at 11 30 55 AM (2)](https://github.com/user-attachments/assets/9eac2a2e-5147-421d-9e35-48134c329b5a)
+
 
 
 **RESULTS**
